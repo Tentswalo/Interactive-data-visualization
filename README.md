@@ -9,14 +9,14 @@ Welcome to the **Interactive Data Visualization Portfolio** project. This platfo
 - **Deployed Project Application**: [Interactive Data Visualization Portfolio](https://github.com/Tentswalo/Tentswalo.io)
 - **Final Project Blog Article**: [Project Blog Article](https://medium.com/@mpenane1/the-purpose-of-the-interactive-data-visualization-portfolio-is-to-create-a-robust-user-friendly-6bb62913aa6d )
 
-## Inspiration and Technical Challenge
+## Inspiration and Technical Challenge 💡
 The inspiration for this project came from my experience as a chemist grappling with large datasets. I set out to create a tool that not only visualizes data but also allows for interactive exploration and analysis. One of the significant technical challenges I faced was designing an efficient data processing pipeline that could handle diverse data formats seamlessly. I chose to implement Data Visualization Library
 - Chosen Technology: Plotly
 - Alternative: Matplotlib
 
 The Plotly Advantages is that it provides built-in support for interactive graphs and visualizations, which are essential for creating a user-friendly and dynamic web application. It is also seamlessly integrated with Dash, which makes it easier to create web applications with interactive plots. While the Matplotlib Advantages are simplicity and that It's one of the most widely used plotting libraries in Python with a large community and many resources available. Taking into account the trade-offs, Plotly is more complex and has a steeper learning curve compared to Matplotlib. However, the interactivity offered by Plotly outweighs the simplicity of Matplotlib for this project, leading to the decision to use Plotly for its advanced features and ease of creating interactive visualizations.
 
-## A Story Demo Video
+## A Story Demo Video 🎬 🎥 🔴 ▶
 
 Check out a quick demo which features an honest overview of the struggles faced and what I envision for a next-iteration:
 
@@ -115,6 +115,7 @@ We welcome contributions to improve the **Interactive Data Visualization Portfol
 ## Licensing 🔒
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 Author: Michelle Penane 👩
 
 ---
