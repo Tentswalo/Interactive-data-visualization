@@ -18,7 +18,7 @@ The Plotly Advantages is that it provides built-in support for interactive graph
 
 ## A Story Demo Video 🎬 🎥 🔴 ▶
 
-Check out a quick demo which features an honest overview of the struggles faced and what I envision for a next-iteration:
+Check out a quick demo which features an honest overview of the struggles faced and what I envision for a next-iteration. The Demo video is also inclusive of the app snippets:
 
 [![A story Demo Video](https://img.youtube.com/vi/FnlQBUePh8c/0.jpg)](https://www.youtube.com/watch?v=FnlQBUePh8c)
 
