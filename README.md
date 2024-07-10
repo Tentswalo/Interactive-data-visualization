@@ -4,10 +4,23 @@
 
 ## Introduction 👋
 
-Welcome to the **Interactive Data Visualization Portfolio** project. This platform is designed to enable users to visualize, interact with, and analyze complex data sets in real-time. By leveraging powerful data visualization tools, users can gain meaningful insights from their data efficiently and intuitively.
+Welcome to the **Interactive Data Visualization Portfolio** project. This platform was born out of my passion for leveraging complex data in chemistry and transforming it into meaningful insights through interactive visualizations. As a chemist, I often found myself overwhelmed with data that required deeper analysis than conventional tools could provide. This project aims to bridge that gap by offering a user-friendly interface where data can be visualized, analyzed, and interpreted in real-time.
 
 - **Deployed Project Application**: [Interactive Data Visualization Portfolio](https://github.com/Tentswalo/Tentswalo.io)
 - **Final Project Blog Article**: [Project Blog Article](https://medium.com/@mpenane1/the-purpose-of-the-interactive-data-visualization-portfolio-is-to-create-a-robust-user-friendly-6bb62913aa6d )
+
+## Inspiration and Technical Challenge
+The inspiration for this project came from my experience as a chemist grappling with large datasets. I set out to create a tool that not only visualizes data but also allows for interactive exploration and analysis. One of the significant technical challenges I faced was designing an efficient data processing pipeline that could handle diverse data formats seamlessly. I chose to implement Data Visualization Library
+- Chosen Technology: Plotly
+- Alternative: Matplotlib
+
+The Plotly Advantages is that it provides built-in support for interactive graphs and visualizations, which are essential for creating a user-friendly and dynamic web application. It is also seamlessly integrated with Dash, which makes it easier to create web applications with interactive plots. While the Matplotlib Advantages are simplicity and that It's one of the most widely used plotting libraries in Python with a large community and many resources available. Taking into account the trade-offs, Plotly is more complex and has a steeper learning curve compared to Matplotlib. However, the interactivity offered by Plotly outweighs the simplicity of Matplotlib for this project, leading to the decision to use Plotly for its advanced features and ease of creating interactive visualizations.
+
+## A Story Demo Video
+
+Check out a quick demo which features an honest overview of the struggles faced and what I envision for a next-iteration:
+
+[![A story Demo Video](https://img.youtube.com/vi/FnlQBUePh8c/0.jpg)](https://www.youtube.com/watch?v=FnlQBUePh8c)
 
 ## Installation 🛠️
 
@@ -101,6 +114,7 @@ We welcome contributions to improve the **Interactive Data Visualization Portfol
 
 ## Licensing 🔒
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 Author: Michelle Penane 👩
 
 ---
